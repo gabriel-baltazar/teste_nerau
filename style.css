@@ -1,0 +1,415 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    font-family: 'Heebo', sans-serif;
+    
+ 
+}
+
+.container{
+    margin-left: 340px;
+    margin-right: 340px;
+}
+
+
+.centralizar-texto{
+    text-align: center;
+}
+
+.alt-grid-barra{
+    height: 52px;
+    background-color:#F8F8F8;
+    align-items: center;
+}
+.alt-grid-barra2{
+    height: 82px;
+    align-items: center;
+}
+.alt-grid-barra4{
+    height: 50px;
+    align-items: center;
+    color: white;
+    background-color: black;
+
+}
+.alt-navbar{
+    height: 102px;
+
+    padding-right: 0;
+    
+    
+    margin-right: 0;
+    background-color: #FFFFFF;
+    align-items: center;
+}
+.promo-10{
+    background: #FFEEE5;
+    border-radius: 3px;
+    padding: 6px 6px 6px 20px;
+    align-self: center;
+    max-width: 16%;
+    }
+.align-left{
+text-align: left;
+align-items: center;
+
+}
+
+.align-right{
+text-align: right;
+align-items: center;
+}
+
+.botao-scoob{
+    background: rgba(56, 201, 172, 0.1);
+    border-radius: 99px;
+    font-weight: bold;
+    color: #38C9AC !important;
+}
+
+.background-banner1{
+    background: linear-gradient(90deg, rgba(20, 21, 24, 0.6) 1.5%, rgba(20, 21, 24, 0.006) 65.91%),url(img/capabanner.png);
+    width: 1918px;
+    height: 664px;
+}
+.texto-banner1{
+    color: white;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 23px;
+}
+
+.texto-banner2{
+    color: white;
+    text-align: left;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 58px;
+}
+
+.centralizar-vert{
+    padding-top:223px;
+     
+}
+.centralizar-vert2{
+    margin-bottom: 60px;
+}
+.botao-branco{
+    background: #FFFFFF;
+    border-radius: 3px;
+    padding: 20px 30px 20px 30px;
+    color: black;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17px;  
+    vertical-align: bottom;
+}
+.botao-transparent{
+    background: transparent;
+    border-radius: 3px;
+    padding: 20px 30px 20px 30px;
+    color: white;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17px;
+}
+
+.produtos1{
+    margin:30px;
+}
+
+
+
+.align-img{
+    display:block;
+    margin: auto;
+}
+
+.swiper-container {
+    width: 100%;
+    max-width:100%;
+    height: 550px;
+
+}
+
+
+
+.produtos2{
+    display: block;
+    margin: auto;
+    padding-top: 91px;
+
+}
+.produtos2-2{
+    display: block;
+    margin: auto;
+    padding-top: 40px;
+
+}
+.produtos2-1{
+    display: block;
+    margin: auto;
+}
+
+.icone-dog{
+    background: url(img/dog-left.png);
+    width: 46px !important;
+    height: 46px !important;
+    background-repeat: no-repeat;
+}
+.icone-cat{
+    background: url(img/cat-left.png);
+    width: 46px !important;
+    height: 46px !important;
+    background-repeat: no-repeat;
+}
+
+
+.fundo-produtos{
+    background-color:#F5F5F5;
+    width: 288px !important;
+    height: 305px ;
+}
+
+.align-icone{
+    margin-top:17px;
+    margin-left:17px;
+}
+
+.align-icone2{
+    margin-top: -29px;
+    margin-left: 17px;
+}
+
+.align-icone-desconto{
+    margin-left: 202px;
+    margin-top: 17px;
+
+}
+
+.background-fundo1{
+    background: url(img/fundo2.png);
+    width: 912px;
+    height: 635px;
+    background-repeat: no-repeat;
+
+}
+.background-fundo2{
+    background: url(img/banner3.png);
+    width: 912px;
+    height: 635px;
+    background-repeat: no-repeat;
+
+}
+.swiper-pagination{
+    margin-bottom: 118px;
+}
+
+.texto-preco{
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 28px;
+    color: black !important;
+
+}
+.texto-produto{
+    margin-top: 82px;
+    color: black !important;
+}
+
+.texto-produto2{
+    margin-top: 55px;
+    color: black !important;
+}
+.texto-parcelado{
+    font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 22px;
+color:#7E8089 ;
+}
+.texto-produto3{
+    text-decoration-line: line-through;
+    color: #7E8089;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 23px;
+}
+.dist-prod{
+    margin-left: 19px;
+
+}
+
+a{
+    text-decoration: none !important;
+    color: black !important;
+    
+    
+}
+
+.espaco-topo-banner{
+    margin-top: 148px;
+
+}
+
+.banner-cat-dog{
+    background: url(img/dogcat.png);
+    margin-top: 148px;
+    width: 1924px;
+    height: 508px;
+
+}
+
+.titulo-insta{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 32px;
+    color: #43444A;
+}
+
+.background-laranja{
+    background-color:#FF5100;
+    width: 1060px;
+    height: 671px;
+}
+.background-banner2{
+    background: url(img/banner-right3.png);
+
+}
+.background-logo{
+    background: url(img/logo-laranja.png);
+    background-repeat: no-repeat;
+    margin-top: 97px;
+    margin-left: 87px;
+    padding-bottom: 150px;
+    
+
+}
+
+.titulo-laranja{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 41px;
+    line-height: 45px;
+    
+}
+
+.texto-laranja{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 23px;
+    color: #FFEEE5;
+    
+
+}
+
+.titulo-new{
+    text-align: center;
+    margin-top:56px;
+    color: #43444A;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 32px;
+}
+
+.titulo-new2{
+margin-top: 14px;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 23px;
+text-align: center;
+color: #7E8089;
+
+
+}
+
+
+.input{
+    margin-left: 610px;
+    list-style-type: none;
+    display: inline-flex;
+    
+}
+.input2{
+    margin-left:30px ;
+    list-style-type: none;
+    display: inline-flex;
+}
+
+.input3{
+    background: #FFFFFF;
+    border: 1px solid #e7e7e7;
+    box-sizing: border-box;
+    border-radius: 3px;
+    height: 55px;
+    width: 295px;
+
+}
+
+.background-barra{
+    transform: rotate(-30deg);
+    
+    
+
+}
+
+ul,li{
+
+    list-style-type: none;
+}
+
+.dist-li{
+    margin-bottom: 30px;
+}
+
+.background-fundo3{
+   background:#F8F8F8;
+   
+}
+
+.text-laranja{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 23px;
+    color: #FF5100;
+}
+
+.footer{
+    background-color: black;
+    height: 68px;
+    color: white;
+    text-align: center;
+    padding-top: 23px;
+
+}
+
+.fonte2{
+
+    font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 22px;
+color:#43444A; ;
+}
+
+.estilo-navbar:hover{
+    border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 8px;
+
+}
